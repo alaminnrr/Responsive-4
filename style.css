@@ -1,0 +1,85 @@
+nav{
+    display: grid;
+    grid-template-columns: auto auto;
+    word-spacing: 1rem;
+    background-color: #9dd9f5;
+    width: 1400;
+}
+nav a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+@media only screen and (max-width:1400px){
+    nav{
+     width: 1400px;
+    }
+}
+.fan img{
+    width: 1407px;
+    height: 700px;
+}
+@media only screen and (max-width:1400px){
+    .fan img{
+     width: 1400px;
+    }
+}
+.fan1{
+    position: absolute;
+    top: 30%;
+    padding-left: 30%;
+}
+.fan2{
+     display: grid;
+     grid-template-columns: auto auto auto;
+     width:1400px ;
+    
+    
+} 
+@media only screen and (max-width:1400px){
+    .fan2{
+     width: 1400px;
+    }
+}
+.vip{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.vip2{
+    background-color: rgb(240,226,251);
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 1400px;
+}
+@media only screen and (max-width:1400px){
+    .vip2{
+     width: 1400px;
+    }
+}
+.vip3{
+   padding-left: 10%;
+   display: grid;
+   grid-template-columns: auto auto;
+}
+.vip4{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+footer{
+    font-size: 2rem;
+    word-spacing: 1rem;
+    background-color: yellow;
+    height: 70px;
+    width: 1400px;
+}
+footer a {
+    text-decoration: none;
+   
+}
+@media only screen and (max-width:1400px){
+    .footer{
+     width: 1400px;
+    }
+}
+.v
+  
